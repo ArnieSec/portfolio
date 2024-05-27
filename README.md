@@ -15,6 +15,23 @@ Discord: 0xarnie
 |:--:|:--:|:--:|:--:|:--:|
 | 39 High/Medium | 13 | 26 | 14 | 1 |
 
+# Sherlock
+| Total | High Risk | Medium Risk | Contests Finsihed |
+|:--:|:--:|:--:|:--:|
+| 21 High/Medium | 5 High | 16 Medium| 8 | 
+
+### Audit Competitions 
+| Contest | High Risk | Medium Risk | Report | 
+|:--:|:--:|:--:|:--:|
+| GMX | 1 High | 4 Medium | [source](https://audits.sherlock.xyz/contests/6) |
+| Y2K | 1 High | 3 Medium | [source](https://audits.sherlock.xyz/contests/57) |
+| Optimism | 1 High | - | [source](https://audits.sherlock.xyz/contests/63) |
+| Notional | 1 High | 4 Medium | [source](https://audits.sherlock.xyz/contests/59) |
+| GMX Update | - | 1 Medium | [source](https://audits.sherlock.xyz/contests/74) |
+| Index | - | 3 Medium | [source](https://audits.sherlock.xyz/contests/81) | 
+| Covalent | - | 1 Medium | [source](https://audits.sherlock.xyz/contests/127) | 
+| Axis | 1 High | - | [source](https://audits.sherlock.xyz/contests/206) | 
+
 # CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
 | Total | High Risk | Medium Risk | Contests Finsihed |
 |:--:|:--:|:--:|:--:|
