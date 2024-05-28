@@ -50,7 +50,7 @@ only private audit with public reports are show below, audits conducted with no 
 |:--:|:--:|:--:|:--:|
 | 13 High/Medium | 6 High | 7 Medium | 1 | 
 
-### Mimswap Gurdian Audits
+### Mimswap Gaurdian Audits
 team audit results
 | Total | High Risk | Medium Risk | Low Risk | Report |
 |:--:|:--:|:--:|:--:|:--:|
