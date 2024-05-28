@@ -1,5 +1,3 @@
-## About arnie
-I am a security researcher who specializes on the evm
 
 ## Contact Information 
 I am available for private audit engagments, if interested, please reach out via:
@@ -44,3 +42,16 @@ Discord: 0xarnie
 | Beedle Fi | 1 | 1 | - | [source](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
 | Sparkn | - | 2 | 1 | [source](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) | 
 | Steadefi | - | - | 2 | [source](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf) |
+
+# Private Audits
+only private audit with public reports are show below, audits conducted with no public reports are not represented.
+
+| Total | High Risk | Medium Risk | Audits Finsihed |
+|:--:|:--:|:--:|:--:|
+| 13 High/Medium | 6 High | 7 Medium | 1 | 
+
+### Mimswap Gurdian Audits
+team audit results
+| Total | High Risk | Medium Risk | Low Risk | Report |
+|:--:|:--:|:--:|:--:|:--:|
+| 28 | 6 | 7 | 15 | [source](https://github.com/GuardianAudits/Audits/blob/main/MIMSwap/2024-03-21_MIMSwap.pdf) |
