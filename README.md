@@ -2,9 +2,9 @@
 ## Contact Information 
 I am available for private audit engagments, if interested, please reach out via:
 
-Twitter: [0xArnie](https://x.com/0xArnie)
+Twitter: [ArnieSec](https://x.com/ArnieSec)
 
-Telegram: arnie0x
+Telegram: arnietel
 
 Discord: 0xarnie
 
@@ -12,6 +12,8 @@ Discord: 0xarnie
 | Overall | High risk |  Medium risk | Audited contests | Private Audits |
 |:--:|:--:|:--:|:--:|:--:|
 | 39 High/Medium | 13 | 26 | 14 | 1 |
+
+TODO: UPDATE FINDING COUNTS, VERY OUTDATED
 
 # Sherlock
 | Total | High Risk | Medium Risk | Contests Finsihed |
@@ -43,15 +45,53 @@ Discord: 0xarnie
 | Sparkn | - | 2 | 1 | [source](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) | 
 | Steadefi | - | - | 2 | [source](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf) |
 
+## HATS FINANCE
+2 valid findings
+
+5,500 earned 
+
 # Private Audits
-only private audit with public reports are show below, audits conducted with no public reports are not represented.
+
 
 | Total | High Risk | Medium Risk | Audits Finsihed |
 |:--:|:--:|:--:|:--:|
 | 13 High/Medium | 6 High | 7 Medium | 1 | 
+
+TODO: UPDATE FINDING COUNTS, VERY OUTDATED
 
 ### Mimswap Gaurdian Audits
 team audit results
 | Total | High Risk | Medium Risk | Low Risk | Report |
 |:--:|:--:|:--:|:--:|:--:|
 | 28 | 6 | 7 | 15 | [source](https://github.com/GuardianAudits/Audits/blob/main/MIMSwap/2024-03-21_MIMSwap.pdf) |
+
+
+### CD Security Team Audit
+2 crit/high
+2 med
+8 low
+5 info
+
+[source](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweepr-report.pdf)
+
+### Solo Private audit #1
+confidential 
+
+### Solo Private audit #2
+confidential
+
+### Team Privste Audit #3
+Confidential
+
+### CD Security Audit #2
+Upcomming
+
+# Bounties
+
+### Immunefi Critical 
+Report cannot be published yet
+
+### Immunefi Critical 
+[Confirmation image](https://x.com/ArnieSec/status/1800280007413047756)
+
+
