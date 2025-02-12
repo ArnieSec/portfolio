@@ -8,21 +8,32 @@ Telegram: arnietel
 
 Discord: 0xarnie
 
-# Summary 
-| Overall | High risk |  Medium risk | Audited contests | Private Audits |
-|:--:|:--:|:--:|:--:|:--:|
-| 39 High/Medium | 13 | 26 | 14 | 1 |
+## About Me
+I am an auditor with 2+ years of experience. I currently do mostly private work but do contests on my off days. I audit in solidity but have done some vyper audits as well. Areas of interest and proficienty include crosschain, CDP, Launchpads, and more. 
 
-TODO: UPDATE FINDING COUNTS, VERY OUTDATED
 
-# Sherlock
-| Total | High Risk | Medium Risk | Contests Finsihed |
+### Private Audits
+** These  only include private audits that i can publically disclose participation in.
+| Protocol | Date | Keyword | Report |
 |:--:|:--:|:--:|:--:|
-| 21 High/Medium | 5 High | 16 Medium| 8 | 
-
+| MV | February 2025 | Escrow | - |
+| Earnings Bay | January 2025 | Launchpad | - |
+| Mimswap Update | January 2025 | AMM | - |
+| Mimswap | february 2024 | Blast | - |
+| Yuga part 2 | January 2025 | NFT | - |
+| Yuga | January 2025 | NFT | - |
+| Parallel part 2 | January 2025 | Crosschain | - |
+| Liquify | January 2025 | Token | - |
+| Parallel Bridge | December 2024 | Crosschain | - |
+| Beezie | November 2024 | Gaming | - |
+| Midnight | October 2024 | NFT Marketplace | - |
+| Keiko | September 2024 | CDP | - |
+| Sweepr | July 2024 | Swaps | - |
 ### Audit Competitions 
 | Contest | High Risk | Medium Risk | Report | 
 |:--:|:--:|:--:|:--:|
+| GAMMA 1st place | 1 High | 1 Medium | [source](https://audits.sherlock.xyz/contests/496?filter=results) |
+| vvv launchpad 1st place | 1 High | - | [source](https://audits.sherlock.xyz/contests/647?filter=results) |
 | GMX | 1 High | 4 Medium | [source](https://audits.sherlock.xyz/contests/6) |
 | Y2K | 1 High | 3 Medium | [source](https://audits.sherlock.xyz/contests/57) |
 | Optimism | 1 High | - | [source](https://audits.sherlock.xyz/contests/63) |
@@ -31,66 +42,12 @@ TODO: UPDATE FINDING COUNTS, VERY OUTDATED
 | Index | - | 3 Medium | [source](https://audits.sherlock.xyz/contests/81) | 
 | Covalent | - | 1 Medium | [source](https://audits.sherlock.xyz/contests/127) | 
 | Axis | 1 High | - | [source](https://audits.sherlock.xyz/contests/206) | 
-
-# CodeHawks <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=50 height=27>
-| Total | High Risk | Medium Risk | Contests Finsihed |
-|:--:|:--:|:--:|:--:|
-| 5 High/Medium | 2 High | 3 Medium | 4 |
-
-### Audit Competitions
-| Contest | High Risk | Medium Risk | low | Report | 
-|:--:|:--:|:--:|:--:|:--:|
-| Defi Stable Coin | 1 | - | - | [source](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
-| Beedle Fi | 1 | 1 | - | [source](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
-| Sparkn | - | 2 | 1 | [source](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) | 
-| Steadefi | - | - | 2 | [source](https://www.codehawks.com/report/clo38mm260001la08daw5cbuf) |
-
+| Defi Stable Coin | 1 High | - | [source](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
+| Beedle Fi | 1 High | 1 Medium |  [source](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
+| Sparkn | - | 2 Medium |  [source](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) | 
 ## HATS FINANCE
 2 valid findings
-
 5,500 earned 
-
-# Private Audits
-
-
-| Total | High Risk | Medium Risk | Audits Finsihed |
-|:--:|:--:|:--:|:--:|
-| 13 High/Medium | 6 High | 7 Medium | 1 | 
-
-TODO: UPDATE FINDING COUNTS, VERY OUTDATED
-
-### Mimswap Gaurdian Audits
-team audit results
-| Total | High Risk | Medium Risk | Low Risk | Report |
-|:--:|:--:|:--:|:--:|:--:|
-| 28 | 6 | 7 | 15 | [source](https://github.com/GuardianAudits/Audits/blob/main/MIMSwap/2024-03-21_MIMSwap.pdf) |
-
-
-### CD Security Team Audit
-2 crit/high
-2 med
-8 low
-5 info
-
-[source](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Sweepr-report.pdf)
-
-### Solo Private audit #1
-confidential 
-
-### Solo Private audit #2
-confidential
-
-### Team Privste Audit #3
-Confidential
-
-### CD Security Audit #2
-Upcomming
-
-# Bounties
-
-### Immunefi Critical 
-Report cannot be published yet
-
 ### Immunefi Critical 
 [Confirmation image](https://x.com/ArnieSec/status/1800280007413047756)
 
