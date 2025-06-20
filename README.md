@@ -16,6 +16,13 @@ I am an auditor with 2+ years of experience. I currently do mostly private work 
 ** These  only include private audits that i can publically disclose participation in.
 | Protocol | Date | Keyword | Report |
 |:--:|:--:|:--:|:--:|
+| Mira | May 2025 | AI | - |
+| 1 Inch | April 2025 | Resolver| - |
+| Atlantis | April 2025| Launchpad| - |
+| Parallel v3| April 2025| Crosschain| - |
+| Nome |March 2025| Stablecoin| - |
+| 1 inch| December 2024| Crosschain| - |
+| lista dao| December 2024| Staking| - |
 | MV | February 2025 | Escrow | - |
 | Earnings Bay | January 2025 | Launchpad | - |
 | Mimswap Update | January 2025 | AMM | - |
@@ -32,6 +39,7 @@ I am an auditor with 2+ years of experience. I currently do mostly private work 
 ### Audit Competitions 
 | Contest | High Risk | Medium Risk | Report | 
 |:--:|:--:|:--:|:--:|
+|ThorWallet 2nd place| 2 High| 1 Medium | [source](https://code4rena.com/reports/2025-02-thorwallet)|
 | GAMMA 1st place | 1 High | 1 Medium | [source](https://audits.sherlock.xyz/contests/496?filter=results) |
 | vvv launchpad 1st place | 1 High | - | [source](https://audits.sherlock.xyz/contests/647?filter=results) |
 | GMX | 1 High | 4 Medium | [source](https://audits.sherlock.xyz/contests/6) |
