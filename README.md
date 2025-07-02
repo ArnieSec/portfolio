@@ -16,21 +16,22 @@ I am an auditor with 2+ years of experience. I currently do mostly private work 
 ** These  only include private audits that i can publically disclose participation in.
 | Protocol | Date | Keyword | Report |
 |:--:|:--:|:--:|:--:|
+| USDT0 | January 2025 | Arbitrum migration | [source](https://github.com/GuardianAudits/Audits/blob/main/USDT0/USDT_Arbitrum_Upgrade.pdf)|
 | Mira | May 2025 | AI | - |
-| 1 Inch | April 2025 | Resolver| - |
-| Atlantis | April 2025| Launchpad| - |
-| Parallel v3| April 2025| Crosschain| - |
-| Nome |March 2025| Stablecoin| - |
+| 1 Inch | April 2025 | Resolver| [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf) |
+| Atlantis | April 2025| Launchpad| [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf) |
+| Parallel v3| April 2025| Crosschain| [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Parallel%20Protocol%20-%20V3%20Core%20-%20Final%20Report.pdf) |
+| Nome |February 2025| Stablecoin| [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Nome%20-%20Final%20Report.pdf) |
 | 1 inch| December 2024| Crosschain| - |
 | lista dao| December 2024| Staking| - |
 | MV | February 2025 | Escrow | - |
 | Earnings Bay | January 2025 | Launchpad | - |
 | Mimswap Update | January 2025 | AMM | - |
-| Mimswap | february 2024 | Blast | - |
-| Yuga part 2 | January 2025 | NFT | - |
-| Yuga | January 2025 | NFT | - |
+| Mimswap | february 2024 | Blast | [source](https://github.com/GuardianAudits/Audits/blob/main/MIMSwap/2024-03-21_MIMSwap.pdf) |
+| Yuga part 2 | January 2025 | NFT | [source](https://github.com/GuardianAudits/Audits/blob/main/YugaLabs/2025-02-05_YugaLabs_NFT_Shadows_2.pdf) |
+| Yuga | January 2025 | NFT | [source](https://github.com/GuardianAudits/Audits/blob/main/YugaLabs/2025-01-17_YugaLabs_NFT_Shadows.pdf) |
 | Parallel part 2 | January 2025 | Crosschain | - |
-| Liquify | January 2025 | Token | - |
+| Liquify | January 2025 | Token | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Liquify%20-%20Final%20Report.pdf) |
 | Parallel Bridge | December 2024 | Crosschain | - |
 | Beezie | November 2024 | Gaming | - |
 | Midnight | October 2024 | NFT Marketplace | - |
