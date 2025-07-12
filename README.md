@@ -30,7 +30,7 @@ I am an auditor with 2+ years of experience. I currently do mostly private work 
 | Mimswap | february 2024 | Blast | [source](https://github.com/GuardianAudits/Audits/blob/main/MIMSwap/2024-03-21_MIMSwap.pdf) |
 | Yuga part 2 | January 2025 | NFT | [source](https://github.com/GuardianAudits/Audits/blob/main/YugaLabs/2025-02-05_YugaLabs_NFT_Shadows_2.pdf) |
 | Yuga | January 2025 | NFT | [source](https://github.com/GuardianAudits/Audits/blob/main/YugaLabs/2025-01-17_YugaLabs_NFT_Shadows.pdf) |
-| Parallel part 2 | January 2025 | Crosschain | - |
+| Parallel part 2 | December 2024 | Crosschain | - |
 | Liquify | January 2025 | Token | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Liquify%20-%20Final%20Report.pdf) |
 | Parallel Bridge | December 2024 | Crosschain | - |
 | Beezie | November 2024 | Gaming | - |
