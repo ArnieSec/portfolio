@@ -13,54 +13,54 @@ I am an auditor with 3+ years of experience. 50+ private audit with team or as s
 
 ### Private Audits
 ** These only include private audits that I can publicly disclose participation in.
-| Protocol | Date | Report |
-|:--:|:--:|:--:|
-| 0x part 2 | January 2026 | - |
-| Hyperdrive Lending | January 2026 | - |
-| Lista slisBNB | January 2026 | - |
-| DeBridge | December 2025 | - |
-| Lista Dao part 4 | December 2025 | - |
-| Vex | December 2025 | - |
-| Lista RWA | November 2025 | - |
-| Lista Fixed Term Loans | November 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20ListaDAO%20-%20Smart%20Collateral%20%2B%20Liquidators%20Extension%20-%20Final%20Report.pdf) |
-| Kelp | October 2025 | - |
-| Protos | October 2025 | - |
-| Citrea | October 2025 | - |
-| EthOS | September 2025 | - |
-| SmartInvoice | September 2025 | - |
-| Camelot Router | August 2025 | - |
-| Hyperdrive Tokenization | August 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Hyperdrive%20-%20Tokenization%20-%20Final%20Report.pdf) |
-| Credifi | July 2025 | - |
-| Paymonade | July 2025 | - |
-| Hyperdrive Market | July 2025 | - |
-| Symbiotic | June 2025 | - |
-| 0x | June 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20CrossChainReceiver%20-%20Final%20Report.pdf) |
-| Mira | May 2025 | - |
-| 1 Inch | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf) |
-| Atlantis | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf) |
-| Parallel v3 | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Parallel%20Protocol%20-%20V3%20Core%20-%20Final%20Report.pdf) |
-| Nome | February 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Nome%20-%20Final%20Report.pdf) |
-| MV | February 2025 | - |
-| USDT0 | January 2025 | [source](https://github.com/GuardianAudits/Audits/blob/main/USDT0/USDT_Arbitrum_Upgrade.pdf) |
-| Yuga part 2 | January 2025 | [source](https://github.com/GuardianAudits/Audits/blob/main/YugaLabs/2025-02-05_YugaLabs_NFT_Shadows_2.pdf) |
-| Yuga | January 2025 | [source](https://github.com/GuardianAudits/Audits/blob/main/YugaLabs/2025-01-17_YugaLabs_NFT_Shadows.pdf) |
-| Liquify | January 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Liquify%20-%20Final%20Report.pdf) |
-| Earnings Bay | January 2025 | - |
-| Mimswap Update | January 2025 | - |
-| 1 inch | December 2024 | - |
-| Lista Dao | December 2024 | - |
-| Parallel part 2 | December 2024 | - |
-| Parallel Bridge | December 2024 | - |
-| Beezie | November 2024 | - |
-| Midnight | October 2024 | - |
-| Keiko | September 2024 | - |
-| Sweepr | July 2024 | - |
-| Mimswap | February 2024 | [source](https://github.com/GuardianAudits/Audits/blob/main/MIMSwap/2024-03-21_MIMSwap.pdf) |
+| Protocol | Date | Report | Firm |
+|:--:|:--:|:--:|:--:|
+| 0x part 2 | January 2026 | - | BailSec |
+| Hyperdrive Lending | January 2026 | - | BailSec |
+| Lista slisBNB | January 2026 | - | BailSec |
+| DeBridge | December 2025 | - | BailSec |
+| Lista Dao part 4 | December 2025 | - | BailSec |
+| Vex | December 2025 | - | BailSec |
+| Lista RWA | November 2025 | - | BailSec |
+| Lista Fixed Term Loans | November 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20ListaDAO%20-%20Smart%20Collateral%20%2B%20Liquidators%20Extension%20-%20Final%20Report.pdf) | BailSec |
+| Kelp | October 2025 | - | BailSec |
+| Protos | October 2025 | - | BailSec |
+| Citrea | October 2025 | - | Guardian Audits |
+| EthOS | September 2025 | - | CD Security |
+| SmartInvoice | September 2025 | - | CD Security |
+| Camelot Router | August 2025 | - | BailSec |
+| Hyperdrive Tokenization | August 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Hyperdrive%20-%20Tokenization%20-%20Final%20Report.pdf) | BailSec |
+| Credifi | July 2025 | - | CD Security |
+| Paymonade | July 2025 | - | BailSec |
+| Hyperdrive Market | July 2025 | - | BailSec |
+| Symbiotic | June 2025 | - | BailSec |
+| 0x | June 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20CrossChainReceiver%20-%20Final%20Report.pdf) | BailSec |
+| Mira | May 2025 | - | BailSec |
+| 1 Inch | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf) | BailSec |
+| Atlantis | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf) | BailSec |
+| Parallel v3 | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Parallel%20Protocol%20-%20V3%20Core%20-%20Final%20Report.pdf) | BailSec |
+| Nome | February 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Nome%20-%20Final%20Report.pdf) | BailSec |
+| MV | February 2025 | - | BailSec |
+| USDT0 | January 2025 | [source](https://github.com/GuardianAudits/Audits/blob/main/USDT0/USDT_Arbitrum_Upgrade.pdf) | Guardian Audits |
+| Yuga part 2 | January 2025 | [source](https://github.com/GuardianAudits/Audits/blob/main/YugaLabs/2025-02-05_YugaLabs_NFT_Shadows_2.pdf) | Guardian Audits |
+| Yuga | January 2025 | [source](https://github.com/GuardianAudits/Audits/blob/main/YugaLabs/2025-01-17_YugaLabs_NFT_Shadows.pdf) | Guardian Audits |
+| Liquify | January 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Liquify%20-%20Final%20Report.pdf) | BailSec |
+| Earnings Bay | January 2025 | - | BailSec |
+| Mimswap Update | January 2025 | - | Guardian Audits |
+| 1 inch | December 2024 | - | BailSec |
+| Lista Dao | December 2024 | - | BailSec |
+| Parallel part 2 | December 2024 | - | BailSec |
+| Parallel Bridge | December 2024 | - | BailSec |
+| Beezie | November 2024 | - | CD Security |
+| Midnight | October 2024 | - | CD Security |
+| Keiko | September 2024 | - | CD Security |
+| Sweepr | July 2024 | - | CD Security |
+| Mimswap | February 2024 | [source](https://github.com/GuardianAudits/Audits/blob/main/MIMSwap/2024-03-21_MIMSwap.pdf) | Guardian Audits |
 
 ### Audit Competitions 
 | Contest | High Risk | Medium Risk | Report | 
 |:--:|:--:|:--:|:--:|
-|ThorWallet 2nd place| 2 High| 1 Medium | [source](https://code4rena.com/reports/2025-02-thorwallet)|
+| ThorWallet 2nd place | 2 High | 1 Medium | [source](https://code4rena.com/reports/2025-02-thorwallet) |
 | GAMMA 1st place | 1 High | 1 Medium | [source](https://audits.sherlock.xyz/contests/496?filter=results) |
 | vvv launchpad 1st place | 1 High | - | [source](https://audits.sherlock.xyz/contests/647?filter=results) |
 | GMX | 1 High | 4 Medium | [source](https://audits.sherlock.xyz/contests/6) |
@@ -72,8 +72,8 @@ I am an auditor with 3+ years of experience. 50+ private audit with team or as s
 | Covalent | - | 1 Medium | [source](https://audits.sherlock.xyz/contests/127) | 
 | Axis | 1 High | - | [source](https://audits.sherlock.xyz/contests/206) | 
 | Defi Stable Coin 2nd Place | 1 High | - | [source](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
-| Beedle Fi | 1 High | 1 Medium |  [source](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
-| Sparkn | - | 2 Medium |  [source](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) | 
+| Beedle Fi | 1 High | 1 Medium | [source](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
+| Sparkn | - | 2 Medium | [source](https://www.codehawks.com/report/cllcnja1h0001lc08z7w0orxx) | 
 
 ## HATS FINANCE
 2 valid findings
@@ -81,3 +81,4 @@ I am an auditor with 3+ years of experience. 50+ private audit with team or as s
 
 ### Immunefi Critical 
 [Confirmation image](https://x.com/ArnieSec/status/1800280007413047756)
+
