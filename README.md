@@ -8,7 +8,7 @@ Telegram: arnietel
 Discord: 0xarnie
 
 ## About Me
-I am an auditor with 3+ years of experience. 50+ private audit with team or as solo conducted. Most but not all are listed below:
+I am an auditor with 3+ years of experience. 50+ private audit with firms such as BailSec, Guardian Audits, Zenith, and CD security. Most but not all are listed below. 
 
 
 ### Private Audits
