@@ -9,7 +9,7 @@ Discord: 0xarnie
 
 ## About Me
 I am an auditor with 3+ years of experience. 50+ private audit with firms such as BailSec, Guardian Audits, Zenith, and CD security. Most but not all are listed below. 
-
+Notable audits for companies such as Yuga Labs, 0xProject, 1Inch, ListaDAO, USDT, Camelot, and many more.
 
 ### Private Audits
 ** These only include private audits that I can publicly disclose participation in.
