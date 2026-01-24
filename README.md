@@ -39,6 +39,7 @@ I am an auditor with 3+ years of experience. 50+ private audit with team or as s
 | 1 Inch | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf) | BailSec |
 | Atlantis | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf) | BailSec |
 | Parallel v3 | April 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Parallel%20Protocol%20-%20V3%20Core%20-%20Final%20Report.pdf) | BailSec |
+| Hyperswell | March 2025 | [source](https://github.com/zenith-security/reports/blob/main/reports/Hyperswell%20-%20Zenith%20Audit%20Report.pdf) | Zenith |
 | Nome | February 2025 | [source](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Nome%20-%20Final%20Report.pdf) | BailSec |
 | MV | February 2025 | - | BailSec |
 | USDT0 | January 2025 | [source](https://github.com/GuardianAudits/Audits/blob/main/USDT0/USDT_Arbitrum_Upgrade.pdf) | Guardian Audits |
